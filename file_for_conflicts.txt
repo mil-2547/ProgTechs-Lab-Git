@@ -1,3 +1,5 @@
 1. some content
 2. fast-forward merge
-3. this line will make conflict (mikhail)
+3.1. this line will make conflict (mikhail)
+3.2. CONFLICT (m/fix-merge-conflicts)
+3.3. CONFLICT is SOLVED
