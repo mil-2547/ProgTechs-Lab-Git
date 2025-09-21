@@ -4,3 +4,4 @@
 3.2. CONFLICT (m/fix-merge-conflicts)
 3.3. CONFLICT is SOLVED
 4. i will be here, because of Xours (mikhail)
+5. i am here :> (m/fix-merge-conflicts)
