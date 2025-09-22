@@ -3,3 +3,4 @@ Italy - Rome
 Poland - Warsaw
 Japan - Tokyo
 Germany - Berlin
+CONFLICT line
