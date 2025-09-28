@@ -1,7 +1,7 @@
-Ukraine - Kyiv
-Italy - Rome
-Poland - Warsaw
-Japan - Tokyo
-Germany - Berlin
-China -  Beijing
-George - Tbilisi
+Ukraine - Kyiv   | default
+Italy - Rome     | @mil-2547
+Poland - Warsaw  | @Diaschk
+Japan - Tokyo    | @Polina-Kubiedinova
+Germany - Berlin | @FedirRohalin
+China -  Beijing | @Ewilor
+George - Tbilisi | @Scott1s
